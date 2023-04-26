@@ -1,5 +1,19 @@
 # Description
 
+This project includes the following basic concepts of working in React:
+- work with lists
+- creating a UI library,
+- sorting and searching,
+- memoization,
+- creating a modal window,
+- Animation,
+- Custom hooks,
+- Work with the server (Axios)
+- Pagination,
+- React Router,
+- Dynamic navigation,
+- Context,
+- Endless tape
 
 # Login page
 ![login](public/login.png)
