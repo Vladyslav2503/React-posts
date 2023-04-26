@@ -1,3 +1,9 @@
+
+![login](public/login.png)
+![posts](public/posts.png)
+![sortAndSearch](public/sortAndSearch.png)
+![addPosts](public/addPosts.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
