@@ -1,7 +1,13 @@
+# Description
 
+
+# Login page
 ![login](public/login.png)
+# Posts page
 ![posts](public/posts.png)
+# sortAndSearch page
 ![sortAndSearch](public/sortAndSearch.png)
+# addPosts page
 ![addPosts](public/addPosts.png)
 
 # Getting Started with Create React App
