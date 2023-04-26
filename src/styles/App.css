@@ -39,6 +39,10 @@
     transition: all 500ms ease-in;
   }
 
+  .post__btns{
+    display: flex;
+  }
+
   .page__wrapper {
     margin-top: 30px;
     display: flex;
@@ -57,7 +61,7 @@
 
   .navbar {
     height: 50px;
-    width: 100vh;
+    width: 106vh;
     display: flex;
     align-items: center;
     padding: 0, 15px;
@@ -66,4 +70,12 @@
 
   .navbar__links {
     margin-left: auto;
+  }
+
+  .link {
+    text-decoration: none;
+    margin-right: 10px;
+    color: teal;
+    border: 1px solid teal;
+    padding: 5px 10px;
   }
